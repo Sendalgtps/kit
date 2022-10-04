@@ -31,13 +31,13 @@ global.APIKeys = { // APIKey Here
   'https://api.adiofficial.xyz': 'apikey lu'
 }
 
-//global.wm = '𝑨𝒓𝒊𝒆𝑻𝒖𝒃𝒆 𝑩𝒐𝒕'
+//global.wm = '𝘒𝘐𝘛-𝘉𝘖𝘛'
 global.wait = '_*𝒔𝒆𝒅𝒂𝒏𝒈 𝒅𝒊 𝒑𝒓𝒐𝒔𝒆𝒔...*_'
 global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓...*_'
 
 //========Url Template Buttons=========//
-global.dtu = 'Group bot'
-global.urlnya = "https://chat.whatsapp.com/Dj8kMyI48u6KGbaAQtKi70"
+global.dtu = 'Ig'
+global.urlnya = "https://instagram.com/this_me_kitsune"
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
